@@ -13,5 +13,5 @@ A simple Todo List application built with React. This app allows users to add, v
 
 - **React**: For building the user interface.
 - **CSS**: For styling the application.
-- **Node.js**: For the development environment (if applicable).
-- **MySQL**: For storing todo items (if database integration is included).
+- **Node.js**: For the development environment.
+- **MySQL**: For storing todo items.
